@@ -1,5 +1,5 @@
 
-# Remove Duplicates from Sorted Array
+# Remove Element
 
 ## Problem Description
 
